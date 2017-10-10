@@ -1,0 +1,10 @@
+{
+    "name": "mwkj/composertest",
+    "authors": [
+        {
+            "name": "Allen Jiang",
+            "email": "kaiqiangjiang@163.com"
+        }
+    ],
+    "require": {}
+}
